@@ -1,0 +1,30 @@
+{
+  "css/app.css": {
+    "path": "css/app.1d8cdf37.css",
+    "integrity": "sha256-2xsXRnVeWirY5KINzqIKHNFuxDJ51OhJn2HEP+bfmXE="
+  },
+  "js/logger.js": {
+    "path": "js/logger.6935266e.js",
+    "integrity": "sha256-5oAUFXZZwGm5s6x5UEi6e3AURCMmueSS0G9huO0DlRY="
+  },
+  "js/factor-bundle.js": {
+    "path": "js/factor-bundle.c8e31650.js",
+    "integrity": "sha256-ualeeROsheDmeZ8V+os8naRYsBhx4xfSpH5NVccVu5A="
+  },
+  "js/polyfill.js": {
+    "path": "js/polyfill.3b35c6af.js",
+    "integrity": "sha256-ZKsiEyn7EOCvOszuaSYJoRl3uQobETBVJdnSxMtCl8E="
+  },
+  "js/core.js": {
+    "path": "js/core.5b272c4a.js",
+    "integrity": "sha256-vup6kWMXbo0QfACKGpmeCNF0i+yb+hmfjUytnLGC8QA="
+  },
+  "js/uncaught.js": {
+    "path": "js/uncaught.7b0773ef.js",
+    "integrity": "sha256-6an/e7RkYS+H4MRr0uiT5/PA2d3wmzvGdsrBgqfoE14="
+  },
+  "js/build.js": {
+    "path": "js/build.1c98088b.js",
+    "integrity": "sha256-RzqfLW/6nOpn06t/JyMRmrTDig8ci/Cecb4Ua5CJc10="
+  }
+}
